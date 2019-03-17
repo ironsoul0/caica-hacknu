@@ -1,0 +1,2 @@
+Base algorithm
+ - http://www.drdobbs.com/implementing-the-ccitt-cyclical-redundan/199904926
